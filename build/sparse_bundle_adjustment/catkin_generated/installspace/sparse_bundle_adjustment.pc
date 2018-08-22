@@ -1,0 +1,8 @@
+prefix=/home/xianjia/karto_spa_fixed/install
+
+Name: sparse_bundle_adjustment
+Description: Description of sparse_bundle_adjustment
+Version: 0.4.1
+Cflags: -I/home/xianjia/karto_spa_fixed/install/include
+Libs: -L/home/xianjia/karto_spa_fixed/install/lib -lsba
+Requires: 

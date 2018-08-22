@@ -1,0 +1,2 @@
+open_karto:slam_karto:sparse_bundle_adjustment
+-DCATKIN_DEVEL_PREFIX=/home/xianjia/karto_spa_fixed/devel -DCMAKE_INSTALL_PREFIX=/home/xianjia/karto_spa_fixed/install -G Unix Makefiles
